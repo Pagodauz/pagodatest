@@ -60,10 +60,10 @@ define('bot_token','993240170:AAFv8CY8rqY8J6OStJPpF8E7yLq37HolJsE');
 
 
 // uzizni ID raqamingizni kiritasiz
-$admin = "777777";
+$admin = "737938387";
 
 // BOT iz username si
-$bot_name = "@xvest";
+$bot_name = "@pagodauzrobot";
 
 
 $efede = json_decode(file_get_contents('php://input'), true);
