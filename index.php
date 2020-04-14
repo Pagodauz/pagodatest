@@ -153,7 +153,7 @@ $soat = date('H:i:s ',strtotime('5 hour'));
         $keyfd = buildKeyBoard($menu, $onetime = false, $resize = false);
         $content = ['chat_id' => $chat_id, 'reply_markup' => $keyfd, 'text' => "$line_rsss
 
-Manba: [@xvest]", 'parse_mode' => 'markdown'];
+Manba: [@pagoda_uz]", 'parse_mode' => 'markdown'];
         xabarYubor($content);
     } 
  if ($text == '/start') {
@@ -166,7 +166,7 @@ Manba: [@xvest]", 'parse_mode' => 'markdown'];
         $keyfd = buildKeyBoard($menu, $onetime = false, $resize = false);
         $content = ['chat_id' => $chat_id, 'reply_markup' => $keyfd, 'text' => "$line_rss \n
 Batafsil o'qish uchun linkga bosing!\n \n
-Manba: [Pagoda_Uz](telegram.me/pagoda_Uz) [@Pagoda_Uz]", 'parse_mode' => 'markdown'];
+Manba: [Pagoda_Uz](telegram.me/pagoda_Uz) [@Pagoda_U]", 'parse_mode' => 'markdown'];
         xabarYubor($content); 
  
 } 
